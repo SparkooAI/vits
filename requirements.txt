@@ -3,7 +3,7 @@ librosa==0.8.0
 matplotlib==3.9.3
 numpy==2.0.0
 phonemizer==2.2.1
-scipy==1.5.2
+scipy==2.0.0
 tensorboard==2.3.0
 torch==1.6.0
 torchvision==0.7.0
